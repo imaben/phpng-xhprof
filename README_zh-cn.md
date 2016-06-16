@@ -14,7 +14,7 @@
 
 编译安装比较简单，更多详情可以查看[xhprof简介](http://yaoguais.github.io/?s=md/xhprof/intro.md)
 
-	git clone git@github.com:Yaoguais/phpng-xhprof.git ./xhprof
+	git clone git@github.com:xhprof/phpng-xhprof.git ./xhprof
 	cd xhprof
 	phpize
 	./configure
@@ -23,7 +23,7 @@
 	ls -l diff
 
 	自己编译的PHP7:
-	git clone git@github.com:Yaoguais/phpng-xhprof.git ./xhprof
+	git clone git@github.com:xhprof/phpng-xhprof.git ./xhprof
 	cd xhprof
 	/path/to/php7/bin/phpize
 	./configure --with-php-config=/path/to/php7/bin/php-config

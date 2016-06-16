@@ -21,7 +21,7 @@ But never find the version of PHP7, So I tried.
 
 # Installation
 
-    git clone git@github.com:Yaoguais/phpng-xhprof.git ./xhprof
+    git clone git@github.com:xhprof/phpng-xhprof.git ./xhprof
 	cd xhprof
 	phpize
 	./configure
@@ -40,7 +40,7 @@ Then add the configuration into php.ini
 
 If you compiled PHP7 from source code, then
 
-    git clone git@github.com:Yaoguais/phpng-xhprof.git ./xhprof
+    git clone git@github.com:xhprof/phpng-xhprof.git ./xhprof
     cd xhprof
     /path/to/php7/bin/phpize
     ./configure --with-php-config=/path/to/php7/bin/php-config
